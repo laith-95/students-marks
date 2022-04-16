@@ -1,3 +1,4 @@
+this line for test, and using git commands
 * add these ideas to the project
 
 1- remove btn
@@ -26,7 +27,7 @@ my-app project
 
 9- [IncreaseMarkBtn.js] render
 
--------------------------------
+----------------------------------------
 
 my-app-copy project
 * when clicking on the last user btn to show his info
