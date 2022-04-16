@@ -63,3 +63,4 @@ my-app-copy project
 
 
 This last line has been added locally
+This last line has been added locally 2
