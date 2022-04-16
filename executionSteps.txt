@@ -1,0 +1,64 @@
+* add these ideas to the project
+
+1- remove btn
+
+2- favorite list, and btn to add the user to this list
+
+
+my-app project
+* when clicking on the last user btn to show his info
+
+1- [App.js] render
+
+2- [UsersList.js] render
+
+3- [User.js] render
+
+4- [User.js] render
+
+5- [User.js] render
+
+6- [User.js] render
+
+7- [User.js] render
+
+8- [UserInfo.js] render
+
+9- [IncreaseMarkBtn.js] render
+
+-------------------------------
+
+my-app-copy project
+* when clicking on the last user btn to show his info
+1- [User.js] render
+
+2- [UserInfo.js] render
+
+============================================================
+============================================================
+
+my-app project
+* when clicking on increase btn
+
+1- [App.js] render
+
+2- [UsersList.js] render
+
+3- [User.js] render
+
+4- [User.js] render
+
+5- [User.js] render
+
+6- [User.js] render
+
+7- [User.js] render
+
+8- [IncreaseMarkBtn.js] render
+
+-------------------------------
+
+my-app-copy project
+* when clicking on increase btn
+
+
